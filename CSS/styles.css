@@ -1,5 +1,5 @@
 body {
-  background-color: #fff;
+  background-color: ##000000;
   padding:50px;
   font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#595959;
@@ -7,7 +7,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#fff;
   margin:0 0 20px;
 }
 
@@ -25,22 +25,22 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#c6c6c6;
   font-weight: 500;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#b6b6b6;
   font-weight: 500;
 }
 
 a {
-  color:#39c;
+  color:#2BC9AF;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:#007F95;
 }
 
 a small {
@@ -73,7 +73,7 @@ code, pre {
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;
+  background: #070707;
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
@@ -87,16 +87,16 @@ table {
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
+  border-bottom:1px solid #1a1a1a;
 }
 
 dt {
-  color:#444;
+  color:#bbbbbb;
   font-weight:500;
 }
 
 th {
-  color:#444;
+  color:#bbbbbb;
 }
 
 img {
@@ -114,7 +114,7 @@ header ul {
   list-style:none;
   height:80px;
   padding:0;
-  background: #f4f4f4;
+  background: #0b0b0b;
   border-radius:5px;
   border:1px solid #e0e0e0;
   width:270px;
@@ -137,7 +137,7 @@ header li:last-child a {
 header ul a {
   line-height:1;
   font-size:11px;
-  color:#999;
+  color:#666666;
   display:block;
   text-align:center;
   padding-top:6px;
@@ -145,11 +145,11 @@ header ul a {
 }
 
 header ul a:hover {
-  color:#999;
+  color:#666666;
 }
 
 header ul a:active {
-  background-color:#f0f0f0;
+  background-color:#0f0f0f;
 }
 
 strong {
@@ -165,7 +165,7 @@ header ul li + li + li {
 header ul a strong {
   font-size:14px;
   display:block;
-  color:#222;
+  color:#dddddd;
 }
 
 section {
