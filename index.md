@@ -1,14 +1,20 @@
-## Welcome to GitHub Pages
+### SOCIAL MEDIA
 
-You can use the [editor on GitHub](https://github.com/adriendinzey/adriendinzey.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Here are some quick links to learn more about me! These links include my professional profiles as well as profiles for my hobbies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [LinkedIn](https://www.linkedin.com/in/adriendinzey/)
+- [Twitter](https://twitter.com/AdrienDinzey/)
+- [Instagram](https://instagram.com/dinzbag/)
+- [SoundCloud](https://soundcloud.com/dinzbag/)
+- [Youtube](https://www.youtube.com/channel/UCSKBTV7pPlCeZSW5aYm3kWg)
 
-### Markdown
+### Coding Projects
+
+### Hobby Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
@@ -24,7 +30,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
