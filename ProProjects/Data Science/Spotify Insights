@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Data Science Student Challenge</title>
+    <title>Spotify Insights</title>
 
     <link rel="stylesheet" href="https://adriendinzey.github.io/CSS/styles.css">
     <link rel="stylesheet" href="https://adriendinzey.github.io/CSS/pygment_trac.css">
@@ -27,13 +27,10 @@
         </ul>
       </header>
       <section>
-        <h1>University of Manitoba Data Science Nexus/Bison Transport Student Challenge</h1>
-        <p>I am currently participating in this challenge hosted by the University of Manitoba Data Science Nexus. 
-          Out of the three possibilites, we chose the Bison Transport challenge. <br>
-          The goal of this challenge is to address network imbalances in Bison Transports wide and vast transport route. 
-          An imbalance in this scenario is defined to be a whenever inbound freight does not match outbound freight.
-          We must create a model that looks at properties such as timing , geographic and equipment to accurately identify imablances.
-          Stay tuned to see our submission!</p>
+        <h1>Spotify Insights</h1>
+        <p>The goal of this project is to answer the question "How successful were arists of past eras compared to the success of modern artists?". 
+        This is a difficult task as we can't simply look at the Spotify numbers for artists who were releasing music before the virtual age of music. 
+        This project will use Spotify numbers of current artists as well as record sales of past artists to try and normalize a ranking system to the general success of each artist.</p>
       <footer>
       </footer>
     </div>
