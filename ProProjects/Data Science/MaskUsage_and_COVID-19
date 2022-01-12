@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Mask Usage and COVID-19</title>
+
+    <link rel="stylesheet" href="https://adriendinzey.github.io/CSS/styles.css">
+    <link rel="stylesheet" href="https://adriendinzey.github.io/CSS/pygment_trac.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="https://adriendinzey.github.io/">Adrien Dinzey!</a></h1>
+        <p>My personal page! Learn more about me.</p>
+        <ul>
+          <li><a href="https://github.com/adriendinzey"><strong>GitHub</strong></a></li>
+          <li><a href="https://www.linkedin.com/in/adriendinzey"><strong>LinkedIn</strong></a></li>
+          <li><a href="https://instagram.com/dinzbag"><strong>Instagram</strong></a></li>          
+          <li><a href="https://soundcloud.com/dinzbag"><strong>SoundCloud</strong></a></li>           
+          <li><a href="https://www.youtube.com/channel/UCSKBTV7pPlCeZSW5aYm3kWg"><strong>Youtube</strong></a></li>   
+          <li><a href="https://twitch.tv/dinzbag"><strong>Twitch</strong></a></li>          
+        </ul>
+      </header>
+      <section>
+        <h1>Mask Usage and COVID-19</h1>
+        <p>This project provided a data-based argument as to whether or not mask usage help prevent the spread of COVID-19. 
+        While there are many valid arguments using scientific thought as to why this is the case, this project gives a simpler evidence-based, data-driven reason. 
+        It examines data maintained by The New York Times on COVID-19 cases, deaths and mask usages and uses 
+        Nonparametric Statistical methods to determine the relationships present in the data. 
+        To read more about the project, view the results, code and final report, <a href="https://github.com/adriendinzey/COVID-19_Mask_Usage_Non-Parametric_Analysis_Project">
+        visit the GitHub repository here</a></p>
+      <footer>
+      </footer>
+    </div>
+    <script src="https://adriendinzey.github.io/javascripts/scale.fix.js"></script>
+  </body>
+</html>
