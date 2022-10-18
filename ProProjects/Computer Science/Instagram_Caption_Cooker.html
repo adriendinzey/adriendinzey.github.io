@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Instagram Caption Cooker</title>
+
+    <link rel="stylesheet" href="https://adriendinzey.github.io/CSS/styles.css">
+    <link rel="stylesheet" href="https://adriendinzey.github.io/CSS/pygment_trac.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="https://adriendinzey.github.io/">Adrien Dinzey</a></h1>
+        <p>My personal page! Learn more about me.</p>
+        <ul>
+          <li><a href="https://github.com/adriendinzey"><strong>GitHub</strong></a></li>
+          <li><a href="https://www.linkedin.com/in/adriendinzey"><strong>LinkedIn</strong></a></li>
+          <li><a href="https://instagram.com/dinzbag"><strong>Instagram</strong></a></li>          
+          <li><a href="https://soundcloud.com/dinzbag"><strong>SoundCloud</strong></a></li>           
+          <li><a href="https://www.youtube.com/channel/UCSKBTV7pPlCeZSW5aYm3kWg"><strong>Youtube</strong></a></li>   
+          <li><a href="https://twitch.tv/dinzbag"><strong>Twitch</strong></a></li>          
+        </ul>
+      </header>
+      <section>
+        <h1>Instagram Caption Cooker</h1>
+        <h4>08/2022 — Present (Ongoing)</h4>
+        <p>       
+          This project is beiing built with the aim to create a web application such that users can upload a photo and the app will generate a caption for the photo that they could use on Instagram. 
+          This is different from just creating tags or a description of the photo as the user is expecting something that sounds natural for what someone might usually find as a caption on Instagram. 
+          The project involves creating convolutional neural networks and recurrent neural network for image recognition and natural language processing.
+
+          This is a group effort between myself and <a href="https://abramkremer.github.io/">Abram Kremer</a> <a href="https://www.linkedin.com/in/abramkremer/">(LinkedIn)</a>.
+
+          This project aims to use the following technologies:
+          <ul>
+            <li>
+              Python
+            </li>
+            <li>
+              Tensorflow
+              <ul>
+                <li>
+                  For creating the actual neural networks required
+                </li>
+              </ul>
+            </li>
+            <li>
+              Keras
+              <ul>
+                <li>
+                  Implementation of the neural networks
+                </li>
+              </ul>
+            </li>
+            <li>
+              Amazon Web Services
+              <ul>
+                <li>
+                  The plan is to create a Flask app (which will created around the overall model) 
+                  where users will be able to upload images and then the captions will be sent back to them. 
+                  Behind the scenes, the application will take the uploaded data and make requests to the model to predict a caption.
+                  All of this communication will be accomplished through REST API requests. 
+                  Having no web development experience at the time of this writing, 
+                  it's very possible the final product will end up with a different architecture than the one described here.
+                  Ideally, once the simple Flask app is built out, 
+                  we are aiming to expand it into a more legitimate web application by introducing other services such as 
+                  Elastic Beanstalk to manage the application and an S3 bucket for data storage.
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </p>
+        <br>
+        <h3>The full project is available <a href="https://github.com/adriendinzey/Instagram-Caption-Cooker">here</a></h3>
+      <footer>
+      </footer>
+    </div>
+    <script src="https://adriendinzey.github.io/javascripts/scale.fix.js"></script>
+  </body>
+</html>
